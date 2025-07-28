@@ -1,0 +1,17 @@
+{
+  "name": "mdn-mcp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "author": "Leo McArdle <leo@mca.is>",
+  "license": "MPL-2.0",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^5.8.3"
+  }
+}
